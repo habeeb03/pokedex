@@ -1,0 +1,74 @@
+body {
+  background: coral;
+}
+
+.container {
+  margin: 130px 152px 153px;
+  background: antiquewhite;
+  padding: 10px;
+}
+
+.p-10 {
+  padding: 10px;
+}
+
+nav > ul > li {
+  display: inline;
+  padding-right: 10px;
+}
+
+nav > ul > li > a {
+  text-decoration: none;
+  color: black;
+}
+
+.search-box {
+  width: 100%;
+  height: 30px;
+}
+
+.items {
+  margin: 10px 0;
+}
+
+.chip {
+  display: inline-block;
+  padding: 0 25px;
+  height: 50px;
+  font-size: 16px;
+  line-height: 50px;
+  border-radius: 25px;
+  background-color: gray;
+}
+
+.details {
+  padding: 10px 0;
+}
+
+.items {
+  margin: 10px 0;
+}
+.container {
+  margin: 130px 152px 153px;
+  background: antiquewhite;
+  padding: 10px;
+}
+
+/* .center {
+  width: 200px;
+  height: 200px;
+  background: #0088cc;
+  margin: auto;
+  padding: 0%;
+  position: relative;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  border-radius: 5%;
+} */
+.btn-bot {
+  position: fixed;
+  bottom: 0;
+  padding: 10px;
+}
