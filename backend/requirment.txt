@@ -1,0 +1,4 @@
+django
+django-admin
+django-restframework==0.0.1
+gunicorn
